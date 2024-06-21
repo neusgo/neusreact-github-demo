@@ -8,6 +8,7 @@ import './App.css'
 //thrid change because the Node.js 20
 // forth attemp change**************
 // fifth attemps with cineusgilvonio.yml////////////
+//sixth attemp with changing package.json
 function App() {
   const [count, setCount] = useState(0)
 
